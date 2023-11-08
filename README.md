@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeeptiBhatiaEco
+- 👋 Hi, I’m Deepti
 - 👀 I’m interested in understanding human behaviour and drawing insights from it.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects related to applications of behavioural economics and experimental economics.
